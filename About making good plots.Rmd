@@ -1,0 +1,32 @@
+---
+title: "Plotting"
+author: "K. Navarro-Velez"
+date: "2026-11-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Plotting with Kara Jones
+
+## 1. Before plotting:
+
+- WHat is the story you aer trying to tell. 
+- What is the best visual to tell that story.  
+- What can I remove that distracts from the story.  
+
+## 2. When possible:
+- Label directly.  
+- Annotate groups.  
+- Check contrast.  
+- improve readability.  
+- Use comparisons that are intuitive (same scale).  
+- Don't use missleading axes.  
+- Order data to guide viewer.  
+- Dont add extraneous decoration.  
+- Accesibility.  - package dichromat to check how it looks for color-blindness.
+
+
+
